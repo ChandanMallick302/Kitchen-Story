@@ -1,5 +1,5 @@
-# Phase4 Project Kitchen Story
-
+# Project Name:
+Kitchen Story
 ## Project Background
 Kitchen Story is an e-commerce portal that lets people shop for basic food items on their website.
 
@@ -21,6 +21,11 @@ Download or clone the content of repository. Then follow the instruction given b
 1. Install MongoDb from https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-6.0.3-signed.msi
 2. In Mongodb compass create database "kitchenstory".
 3. Inside db kitchenstory create Collections- AdminCred, Orders, Products.
-4. In respective collections import the .csv file.
+4. In respective collections import the .json file.
 
 The web application is now ready to use in http://localhost:4200/
+
+### Admin Login Page
+   
+   Username: chandan@kitchenstory.com
+   password: Chandan@123
