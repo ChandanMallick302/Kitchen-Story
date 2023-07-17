@@ -11,7 +11,7 @@ Download or clone the content of repository. Then follow the instruction given b
 2. Then Install node.js from https://nodejs.org/en/download/.
 3. Then open cmd and paste: npm install -g @angular/cli
 4. Then in cmd, paste: npm install
-5. After installation, in cmd paste: ng serve --o
+5. After installation, in cmd paste: ng serve
 
 ### Setup for backend
 1. Open Eclipse Ide. import maven project Backend_SpringBoot.
