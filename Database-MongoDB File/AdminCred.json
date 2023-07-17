@@ -1,0 +1,6 @@
+[{
+  "_id": "chandan@kitchenstory.com",
+  "password": "$2a$10$Zlcbp/LTW3B.OcklkigZA.x8rruA9Mi/iFYDgQrBaG1Gs4Na1ItAu",
+  "role": "ROLE_ADMIN",
+  "_class": "com.kitchenstory.entities.AdminCred"
+}]
